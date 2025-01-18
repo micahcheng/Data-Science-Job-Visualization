@@ -2,5 +2,5 @@
 Group Project by Micah Cheng, Bridget Crampton, and Ian Shigley
 A large dataset analysis/visualization for students exploring jobs in the data science field
 For students exploring types of jobs, salaries, demand, and work settings, etc in the data science field, A dataset analysis/visualization by using matplotlib
-Paper describing findings: https://docs.google.com/document/d/1IEBs-KV39Ujm1ZdVCqg6C4XcOAf86iExS86WIMxnII4/edit?usp=sharing
+Paper and presentation included
 Credits to: https://www.kaggle.com/datasets/brsahan/data-science-job
